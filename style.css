@@ -55,3 +55,46 @@ h1{
     color:cyan
 }  
 
+
+footer{
+    background-color: black;
+}
+
+
+footer p{
+    margin: 0;
+    padding: 50px;
+}
+
+@media(max-width: 500px){
+    header{
+        display: block;
+        text-align: center;
+        padding: 10px 0;
+    
+
+    
+    }
+    nav{
+        margin: 10px 0;
+    }
+
+
+}
+
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 26px;
+}
+
+div{
+    padding: 20px 10px;
+}
+button{
+    font-size: 30px;
+}
+button a{
+    font-size: 30px;
+}
